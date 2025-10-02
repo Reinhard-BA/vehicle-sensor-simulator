@@ -1,0 +1,20 @@
+# Python cache / build files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+*.egg
+dist/
+build/
+
+# Virtual environment
+venv/
+.env/
+
+# Output files
+*.csv
+
+# IDE / editor settings
+.vscode/
+.idea/
